@@ -4,16 +4,16 @@
   --color-brand: #8fff00;
   --color-brand-hover: #7acc00;
   
-  --color-bg-primary: #0f0f0f;
-  --color-bg-secondary: #1a1a1a;
-  --color-bg-surface: #222222;
+  --color-bg-primary: #0b120b;
+  --color-bg-secondary: #121c12;
+  --color-bg-surface: #1a261a;
   
   --color-text-primary: #ffffff;
-  --color-text-secondary: #888888;
-  --color-text-muted: #555555;
+  --color-text-secondary: #8b998b;
+  --color-text-muted: #586658;
   
-  --color-border-subtle: #222222;
-  --color-border-hover: #333333;
+  --color-border-subtle: #1a261a;
+  --color-border-hover: #283828;
 
   --spacing-header: 72px;
 }
